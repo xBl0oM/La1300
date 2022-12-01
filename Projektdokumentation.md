@@ -90,9 +90,10 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |5|0|alle|Der Timer auf den Screen, auf dem die Aufgaben sind, sichtbar machen.|45min|
 |6|0|alle|richtig oder falsch programmieren wenn man eine Aufgabe beantwortet hat.|90min|
 |7|0|alle|Eine Gratulation programmieren die angezeigt wird wenn man alle Fragen richtig beantwortet hat.|90min|
-|8|0|alle|
-|9|0|alle|
-|10|0|alle|
+|8|0|alle|Programmieren das man Punkte pro richtige oder bei falschen Antworten minus bekommt.|90min|
+|9|0|alle|Programmieren eines Leader Bords das, sobald die Aufgaben fertig sind, angezeigt wird.|90min|
+|10|0|alle|Programmieren, ob man weiterspielen kann oder beenden will.|45min|
+
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
