@@ -27,7 +27,7 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |3|Muss|Funktional|Als User möchte ich die Schierigkeit des Themas wählen können |
 |4|Muss|Qualität|Als User möchte ich eingeben, wie viel Zeit ich zur verfügung haben will|
 |5|Muss|Funktional|Als User möchte ich einen klaren Timer sehen|
-|6|Mus|Qualität|Als User möchte ich, dass Eingaben als richtig oder falsch eingespeichert werden|
+|6|Muss|Qualität|Als User möchte ich, dass Eingaben als richtig oder falsch eingespeichert werden|
 |7|Muss|Qualität|Als User möchte ich ein Gratulation erhalten, wenn ich alle fragen richtig eingegeben habe|
 |8|Muss|Qualität|Als User möchte ich Punkte für richtige Aufgaben erhalten oder bei falschen Aufgaben abzug erhalten|
 |9|Kann |Qualität|Als User möchte ich ein Leaderboard sehen|
@@ -79,18 +79,16 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1a|Meier, Broder| Die Willkommenspage wird auf Forms programmiert|45 min|
-|1b|alle|Die Willkommenspage wird designd| 30min|
- |2a |alle| Dropdown-Liste wird programmiert|60min |
-|2b |alle| verschiedene Themen werden angezeigt|45min|
-|2c|alle| Man kann das Thema auswählen|30 min|
-|2d|alle|Ein Beispiel pro Thema wird ausgewählt, das es später angezeigt werden kann. |45min|
-|2e|alle|Wenn man auf ein Thema drückt kommt das Beispiel und man wird gefragt, ob man dieses Thema wirklich wählen will. |45min|
-|3a| alle | Programmieren das es verschiedene Schwierigkeitsgrade gibt. |45min|
-|3b|alle | Wenn der User ein Thema auswählt kann er den Schwierigkeitsgrad auswählen. |45min|
-|3c|alle | Pro Schwierigkeitsgrad wird ein Beispiel ausgewählt, das später angezeigt wird. |45min|
-|3d|alle| Wenn der User einen Schwierigkeitsgrad auswählt kommt das Beispiel des Schwierigkeitsgrades|45min|
-
+|1|0|Meier, Broder| Die Willkommenspage wird auf Forms programmiert|45 min|
+|2 |0|alle| Mehrere Themen werden programmiert die man dann auswählen kann und dass dan ein Beispiel angezeigt wird und gefragt wird ob man sich sicher ist.|120min |
+|3|0| alle | Programmieren das es verschiedene Schwierigkeitsgrade gibt,man zwischen den auswählen kann und dann wieder ein Beispiel kommt und gefragt wird ob man sich sicher ist diesen Schwierigkeitsgrad zu wählen. |45min|
+|4|0|alle|Ein Timer wird programmiert, den man selber einstellen kann bevor man die Aufgabe beginnt,damit man bischen Druck hat.|90min|
+|5|0|alle|Der Timer auf den Screen, auf dem die Aufgaben sind, sichtbar machen.|45min|
+|6|0|alle|richtig oder falsch programmieren wenn man eine Aufgabe beantwortet hat.|90min|
+|7|0|alle|Eine Gratulation programmieren die angezeigt wird wenn man alle Fragen richtig beantwortet hat.|90min|
+|8|0|alle|
+|9|0|alle|
+|10|0|alle|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
