@@ -27,7 +27,8 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |3|Muss|Qualität|Als User möchte ich, dass Falsche Aufgaben markiert werden|
 |4|Muss|Qualität|Als user möchte ich,Zu falschen Themen sollen erneute Aufgaben gestellt werden|
 |5|Muss|Qualität|Als User möchte ich ein Gratulation erhalten, wenn ich alle fragen richtig eingegeben habe|
-|6|Muss|Qualität|
+|6|Muss|Qualität|Als User möchte ich einen klaren Timer sehen|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
