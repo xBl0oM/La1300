@@ -79,8 +79,17 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+|1a|Meier, Broder| Die Willkommenspage wird auf Forms programmiert|45 min|
+|1b|alle|Die Willkommenspage wird designd| 30min|
+ |2a |alle| Dropdown-Liste wird programmiert|60min |
+|2b |alle| verschiedene Themen werden angezeigt|45min|
+|2c|alle| Man kann das Thema auswählen|30 min|
+|2d|alle|Ein Beispiel pro Thema wird ausgewählt, das es später angezeigt werden kann. |45min|
+|2e|alle|Wenn man auf ein Thema drückt kommt das Beispiel und man wird gefragt, ob man dieses Thema wirklich wählen will. |45min|
+|3a| alle | Programmieren das es verschiedene Schwierigkeitsgrade gibt. |45min|
+|3b|alle | Wenn der User ein Thema auswählt kann er den Schwierigkeitsgrad auswählen. |45min|
+|3c|alle | Pro Schwierigkeitsgrad wird ein Beispiel ausgewählt, das später angezeigt wird. |45min|
+|3d|alle| Wenn der User einen Schwierigkeitsgrad auswählt kommt das Beispiel des Schwierigkeitsgrades|45min|
 
 Total: 
 
