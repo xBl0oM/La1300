@@ -75,6 +75,9 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 
 ![image](https://user-images.githubusercontent.com/111044215/205022048-065fe768-46e3-4fb7-bf51-ca5eaefa5324.png)
 
+![image](https://user-images.githubusercontent.com/111044215/205022254-a7fc970e-7399-428c-9183-40435e65b961.png)
+
+
 
 ## 2 Planen
 
