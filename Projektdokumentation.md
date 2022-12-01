@@ -24,11 +24,14 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 | ---- | --------------- | ---- | ---------------------------------- |
 |1|Muss|Funktional|Als User möchte ich eine Wilkommens-Page haben|
 |2|Muss|Funktional|Als User möchte ich Aufgaben die an mein Können angebpasst sind|
-|3|Muss|Qualität|Als User möchte ich, dass Falsche Aufgaben markiert werden|
-|4|Muss|Qualität|Als user möchte ich,Zu falschen Themen sollen erneute Aufgaben gestellt werden|
+|3|Muss|Funktional|Als User möchte ich, dass Falsche Aufgaben markiert werden|
+|4|Muss|Funktional|Als user möchte ich,Zu falschen Themen sollen erneute Aufgaben gestellt werden|
 |5|Muss|Qualität|Als User möchte ich ein Gratulation erhalten, wenn ich alle fragen richtig eingegeben habe|
 |6|Muss|Qualität|Als User möchte ich einen klaren Timer sehen|
-|7|Kann|
+|7|Kann|Qualität|Als User möchte ich eine art an Score/ Ranking haben|
+|8|Kann|Qualität|Als User möchte ich ein Leaderboard sehen|
+|9|Kann Qualität|Als User möchte ich ein Punktesystem|
+|10|Kann|Qualität|Als User möchte ich verschiedene Skins|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
