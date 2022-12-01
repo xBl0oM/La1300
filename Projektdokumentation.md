@@ -30,7 +30,7 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |6|Muss|Qualität|Als User möchte ich einen klaren Timer sehen|
 |7|Kann|Qualität|Als User möchte ich eine art an Score/ Ranking haben|
 |8|Kann|Qualität|Als User möchte ich ein Leaderboard sehen|
-|9|Kann Qualität|Als User möchte ich ein Punktesystem|
+|9|Kann |Qualität|Als User möchte ich ein Punktesystem|
 |10|Kann|Qualität|Als User möchte ich verschiedene Skins|
 
 
