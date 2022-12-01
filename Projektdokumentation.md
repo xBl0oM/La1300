@@ -1,7 +1,7 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Gruppe Ice Cream
 Noah Meier, Mohamad Amaraya, John Broder, Leon Dakaj, Jan Frey
@@ -29,13 +29,10 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |5|Muss|Funktional|Als User möchte ich einen klaren Timer sehen|
 |6|Mus|Qualität|Als User möchte ich, dass Eingaben als richtig oder falsch eingespeichert werden|
 |7|Muss|Qualität|Als User möchte ich ein Gratulation erhalten, wenn ich alle fragen richtig eingegeben habe|
-|8|Muss|Qualität|Als User möchte ich Punkte für richtige Aufgaben erhalten|
-|9|Kann|Qualität|Als User möchte ich Punkte für falsche Aufgaben abgezogen bekommen|
-|10|Kann |Qualität|Als User möchte ich ein Leaderboard sehen|
-|11|Kann|Qualität|Als User möchte ich die Wahl haben, einen erneuten Versuch zu starten|
+|8|Muss|Qualität|Als User möchte ich Punkte für richtige Aufgaben erhalten oder bei falschen Aufgaben abzug erhalten|
+|9|Kann |Qualität|Als User möchte ich ein Leaderboard sehen|
+|10|Kann|Qualität|Als User möchte ich die Wahl haben, einen erneuten Versuch zu starten|
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -49,7 +46,7 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |2.3|User hat Quiz gestartet|User wählt Thema|Frage, ob User sicher ist|
 |3.1|User hat Thema gewählt|-| Bestätigung des Themas|
 |3.2|User hat das Thema gewählt|-| Frage nach Schwierigkeit|
-|3.3|User hat das Thema gewählt|Eingabe der Schwierigkeit|Beispiel für Schwierigkeit|
+|3.3|User hat das Thema gewählt|Wahl der Schwierigkeit|Beispiel für Schwierigkeit|
 |4.1|Schwierigkeit gewählt|-|Uhr wird angezeigt|
 |4.2|Schwierigkeit gewählt|-|Frage nach der angabe der Zeitdauer|
 |4.3|Schwierigkeit gewählt|Eingabe der Zeitdauer|Die Zeit wird gespeichert|
@@ -62,9 +59,17 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |7.1|Aufgaben wurden erledigt|-|Überprüfung der erledigung|
 |7.2|Aufgaben wurden erledigt|-|Alle Aufgaben Richtig gelöst|
 |7.3|Aufgaben wurden erledigt|-|Gratulation wird angezeigt|
+|8.1|Aufgaben werden gelöst|Ergebnis|Speichern und kontrollieren|
+|8.2|Aufgaben werden gelöst|-|Wenn Richtig punkte hinzufügen|
+|8.3|Aufgaben werden gelöst|-|Wenn falsch punkte abziehen|
+|9.1|Aufgaben wurden gelöst|-|Punkte werden gespeichert|
+|9.2|Aufgaben wurden gelöst|-|Neues Pop-Up Fenster wird angezeigt|
+|9.3|Aufgaben wurden gelöst|-|Leaderboard wird angezeigt|
+|10.1|Leaderboard wird angezeigt|-|Frage nach erneutem Versuch|
+|10.2|Leaderboard wird angezeigt|Erneut spielen/Abbrechen|Frage, ob der User sicher ist|
+|10.3|Leaderboard wird angezeigt|Ja/Nein|Programm wird neu gestartet/beendet|
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
