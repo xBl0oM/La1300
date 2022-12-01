@@ -73,7 +73,8 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://user-images.githubusercontent.com/111044215/205022048-065fe768-46e3-4fb7-bf51-ca5eaefa5324.png)
+
 
 ## 2 Planen
 
