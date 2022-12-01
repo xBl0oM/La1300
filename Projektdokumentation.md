@@ -56,7 +56,12 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |5.1|Zeit wurde eingegeben|-|Auswahl zwischen digitaler und normaler Uhr|
 |5.2|Zeit wurde eingegeben|Eingabe der Auswahl|Gewählte Uhr wird gespeichert|
 |5.3|Zeit wurde eingegeben|-|Uhr ist ersichtlich|
-|6.1|Quiz beginnt|Einag||
+|6.1|Quiz beginnt|Eingabe der Lösung|Grüner Haken|
+|6.2|Quiz beginnt|Eingabe der falschen Lösung|rotes X|
+|6.3|Quiz beginnt|-|Eingaben werden gespeichert|
+|7.1|Aufgaben wurden erledigt|-|Überprüfung der erledigung|
+|7.2|Aufgaben wurden erledigt|-|Alle Aufgaben Richtig gelöst|
+|7.3|Aufgaben wurden erledigt|-|Gratulation wird angezeigt|
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
