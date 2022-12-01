@@ -23,15 +23,16 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |1|Muss|Funktional|Als User möchte ich eine Wilkommens-Page haben|
-|2|Muss|Funktional|Als User möchte ich Aufgaben die an mein Können angebpasst sind|
-|3|Muss|Funktional|Als User möchte ich, dass Falsche Aufgaben markiert werden|
-|4|Muss|Funktional|Als user möchte ich,Zu falschen Themen sollen erneute Aufgaben gestellt werden|
-|5|Muss|Qualität|Als User möchte ich ein Gratulation erhalten, wenn ich alle fragen richtig eingegeben habe|
-|6|Muss|Qualität|Als User möchte ich einen klaren Timer sehen|
-|7|Kann|Qualität|Als User möchte ich eine art an Score/ Ranking haben|
-|8|Kann|Qualität|Als User möchte ich ein Leaderboard sehen|
-|9|Kann |Qualität|Als User möchte ich ein Punktesystem|
-|10|Kann|Qualität|Als User möchte ich verschiedene Skins|
+|2|Muss|Funktional|Als User möchte ich mein Thema wählen können|
+|3|Muss|Funktional|Als User möchte ich die Schierigkeit des Themas wählen können |
+|4|Muss|Qualität|Als User möchte ich eingeben, wie viel Zeit ich zur verfügung haben will|
+|5|Muss|Funktional|Als User möchte ich einen klaren Timer sehen|
+|6|Mus|Qualität|Als User möchte ich, dass Eingaben als richtig oder falsch eingespeichert werden|
+|7|Muss|Qualität|Als User möchte ich ein Gratulation erhalten, wenn ich alle fragen richtig eingegeben habe|
+|8|Muss|Qualität|Als User möchte ich Punkte für richtige Aufgaben erhalten|
+|9|Kann|Qualität|Als User möchte ich Punkte für falsche Aufgaben abgezogen bekommen|
+|10|Kann |Qualität|Als User möchte ich ein Leaderboard sehen|
+|11|Kann|Qualität|Als User möchte ich die Wahl haben, einen erneuten Versuch zu starten|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -40,8 +41,23 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |User startet das Programm|-|Wilkommens-Page|
+| 1.2  |Wilkommens-Page ist angezeigt |-|Einleitung|
+|1.3|Einleitung ist angezeigt|User akzeptiert  |Quiz startet |
+|2.1|User hat Quiz gestartet|-| Drop-Down Liste mit verschiedenen Themen|
+|2.2|User hat Quiz gestartet|User wählt Thema|Beispiel wird angezeigt|
+|2.3|User hat Quiz gestartet|User wählt Thema|Frage, ob User sicher ist|
+|3.1|User hat Thema gewählt|-| Bestätigung des Themas|
+|3.2|User hat das Thema gewählt|-| Frage nach Schwierigkeit|
+|3.3|User hat das Thema gewählt|Eingabe der Schwierigkeit|Beispiel für Schwierigkeit|
+|4.1|Schwierigkeit gewählt|-|Uhr wird angezeigt|
+|4.2|Schwierigkeit gewählt|-|Frage nach der angabe der Zeitdauer|
+|4.3|Schwierigkeit gewählt|Eingabe der Zeitdauer|Die Zeit wird gespeichert|
+|5.1|Zeit wurde eingegeben|-|Auswahl zwischen digitaler und normaler Uhr|
+|5.2|Zeit wurde eingegeben|Eingabe der Auswahl|Gewählte Uhr wird gespeichert|
+|5.3|Zeit wurde eingegeben|-|Uhr ist ersichtlich|
+|6.1|Quiz beginnt|Einag||
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
