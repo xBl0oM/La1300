@@ -8,9 +8,9 @@ Noah Meier, Mohamad Amaraya, John Broder, Leon Dakaj, Jan Frey
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|1.12.2022|1| Wir haben das Thema azsgewählt und auch die User Storys, Testfälle und das Diagramm erstellt. |
+|8.12.2022|2| Wir haben das Planen gemaht und angefangen zu Programmieren.|
+|15.12.2022|3|Wir haben den Code beendet und verbessert und eine Präsentation über unser THema gehalten|
 
 ## 1 Informieren
 
