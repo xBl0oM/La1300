@@ -84,15 +84,15 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |1|22.12.2022|Meier, Broder| Die Willkommenspage wird auf Forms programmiert|45 min|
-|2 |22.12.2022|Frei,Dakaj,Meier,Broder,Amraya| Mehrere Themen werden programmiert die man dann auswählen kann und dass dan ein Beispiel angezeigt wird und gefragt wird ob man sich sicher ist.|120min |
-|3|22.12.2022| Frei,Dakaj,Meier,Broder,Amraya | Programmieren das es verschiedene Schwierigkeitsgrade gibt,man zwischen den auswählen kann und dann wieder ein Beispiel kommt und gefragt wird ob man sich sicher ist diesen Schwierigkeitsgrad zu wählen. |45min|
-|4|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Ein Timer wird programmiert, den man selber einstellen kann bevor man die Aufgabe beginnt,damit man bischen Druck hat.|90min|
-|5|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Der Timer auf den Screen, auf dem die Aufgaben sind, sichtbar machen.|45min|
-|6|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|richtig oder falsch programmieren wenn man eine Aufgabe beantwortet hat.|90min|
-|7|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Eine Gratulation programmieren die angezeigt wird wenn man alle Fragen richtig beantwortet hat.|90min|
-|8|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Programmieren das man Punkte pro richtige oder bei falschen Antworten minus bekommt.|90min|
-|9|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Programmieren eines Leader Bords das, sobald die Aufgaben fertig sind, angezeigt wird.|90min|
-|10|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Programmieren, ob man weiterspielen kann oder beenden will.|45min|
+|2 |22.12.2022|Frey,Dakaj,Meier,Broder,Amraya| Mehrere Themen werden programmiert die man dann auswählen kann und dass dan ein Beispiel angezeigt wird und gefragt wird ob man sich sicher ist.|120min |
+|3|22.12.2022| Frey,Dakaj,Meier,Broder,Amraya | Programmieren das es verschiedene Schwierigkeitsgrade gibt,man zwischen den auswählen kann und dann wieder ein Beispiel kommt und gefragt wird ob man sich sicher ist diesen Schwierigkeitsgrad zu wählen. |45min|
+|4|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Ein Timer wird programmiert, den man selber einstellen kann bevor man die Aufgabe beginnt,damit man bischen Druck hat.|90min|
+|5|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Der Timer auf den Screen, auf dem die Aufgaben sind, sichtbar machen.|45min|
+|6|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|richtig oder falsch programmieren wenn man eine Aufgabe beantwortet hat.|90min|
+|7|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Eine Gratulation programmieren die angezeigt wird wenn man alle Fragen richtig beantwortet hat.|90min|
+|8|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Programmieren das man Punkte pro richtige oder bei falschen Antworten minus bekommt.|90min|
+|9|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Programmieren eines Leader Bords das, sobald die Aufgaben fertig sind, angezeigt wird.|90min|
+|10|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Programmieren, ob man weiterspielen kann oder beenden will.|45min|
 
 Total: 
 
@@ -104,21 +104,21 @@ Total:
 
 Wir haben uns am 8.12.2022 dazu entschieden mit dem programmieren anzufangen.
 Wir haben uns am 15.12.2022 dazu entschieden die Planungs Nummern 4,5,8 und 9 nicht auszuführen, weil wir keine Zeit mehr haben.
-Wir haben uns am 22.12.2022 dazu entschieden das Noah, Jan, 
+Wir haben uns am 22.12.2022 dazu entschieden das Meier,Frey, 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 |1|8.12.2022|Broder,Meier|45min|60min|
-|2|8.12.2022|Frei,Dakaj,Meier,Broder,Amraya|120min|180min|
-|3|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|45min|
-|4|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
-|5|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
-|6|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|45min|
-|7|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|45min|
-|8|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
-|9|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
-|10|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|45min|30min|
+|2|8.12.2022|Frey,Dakaj,Meier,Broder,Amraya|120min|180min|
+|3|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|45min|
+|4|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
+|5|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
+|6|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|45min|
+|7|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|45min|
+|8|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
+|9|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
+|10|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|45min|30min|
 
 ## 5 Kontrollieren
 
