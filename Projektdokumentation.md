@@ -135,7 +135,7 @@ Wir haben uns am 22.12.2022 dazu entschieden das Meier,Frey,Dakaj und Amraya sic
 |9|15.12.2022|Wurde nicht erledigt.|Frey|
 |10|15.12.2022|Es wird keine Frage eingeblendet.|Broder|
 
-##Zitat
+### Zitat
 Allgemein ging unsere Arbeit gut, allerdings hatten wir mehrere Organisatorische Probleme, die uns bisschen zurückgehalten haben. Darum konnten wir leider nicht all unsere Ziele fertigstellen. Wir sind trotzdem stolz auf das was wir am Schluss bekommen haben. Das Grund Programm läuft reibungslos und wir sind pünktlich fertig geworden.
 ### 5.2 Exploratives Testen
 
