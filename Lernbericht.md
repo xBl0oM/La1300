@@ -2,13 +2,15 @@
 
 Cornetto // Jan Frey, John Broder, Leon Dakaj, Noah Meier, Mohammand Amaraya
 
+## Einleitung
 
+In diesem Projekt haben wir mithilfe von Winforms einen Mathequiz erstellt.
 
 ## Was haben wir gelernt?
 
 
 
-Wir haben gelernt, wie man in Windows Forms einen "Button" erstellt und grafisch ansprechend gestaltet
+Wir haben gelernt, wie man in Windows Forms einen "Button" erstellt und grafisch ansprechend gestaltet.
 
 
 
