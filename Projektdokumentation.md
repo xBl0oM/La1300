@@ -110,15 +110,14 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 |1|8.12.2022|Broder,Meier|45min|60min|
 |2|8.12.2022|Frei,Dakaj,Meier,Broder|120min|180min|
-|3|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|45min|
+|3|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|
 |4|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
-|5|15.12.2022|Frei,Dakaj,Meier,Broder|90min|1|
-|6|15.12.2022|Frei,Dakaj,Meier,Broder|90min|1|
-|7|15.12.2022|Frei,Dakaj,Meier,Broder|90min|1|
-|8|15.12.2022|Frei,Dakaj,Meier,Broder|90min|1|
-|9|15.12.2022|Frei,Dakaj,Meier,Broder|90min|1|
-|10|15.12.2022|Frei,Dakaj,Meier,Broder|45min|1|
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+|5|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
+|6|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|
+|7|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|
+|8|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
+|9|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
+|10|15.12.2022|Frei,Dakaj,Meier,Broder|45min|30min|
 
 ## 5 Kontrollieren
 
