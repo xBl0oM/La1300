@@ -94,17 +94,11 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 |9|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Programmieren eines Leader Bords das, sobald die Aufgaben fertig sind, angezeigt wird.|90min|
 |10|22.12.2022|Frey,Dakaj,Meier,Broder,Amraya|Programmieren, ob man weiterspielen kann oder beenden will.|45min|
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
 Wir haben uns am 8.12.2022 dazu entschieden mit dem programmieren anzufangen.
 Wir haben uns am 15.12.2022 dazu entschieden die Planungs Nummern 4,5,8 und 9 nicht auszuführen, weil wir keine Zeit mehr haben.
-Wir haben uns am 22.12.2022 dazu entschieden das Meier,Frey, 
+Wir haben uns am 22.12.2022 dazu entschieden das Meier,Frey,Dakaj und Amraya sich um den Lernbericht kümmern, wärend Broder sich um die fertigstellung des Githubs sorgt. 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
