@@ -140,4 +140,4 @@ Allgemein ging unsere Arbeit gut, allerdings hatten wir mehrere Organisatorische
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+(https://github.com/xBl0oM/La1300/blob/main/Lernbericht.md)
