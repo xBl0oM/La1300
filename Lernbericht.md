@@ -1,10 +1,10 @@
 # Lern-Bericht
 
-Wir haben ein Mathequiz erstellt
+Cornetto // Jan Frey, John Broder, Leon Dakaj, Noah Meyer
 
 
 
-## Was habe ich gelernt?
+## Was haben wir gelernt?
 
 
 
