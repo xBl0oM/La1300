@@ -105,14 +105,14 @@ Wir haben uns am 22.12.2022 dazu entschieden das Meier,Frey,Dakaj und Amraya sic
 | ---- | ----- | --------- | ------------- | ----------------- |
 |1|8.12.2022|Broder,Meier|45min|60min|
 |2|8.12.2022|Frey,Dakaj,Meier,Broder,Amraya|120min|180min|
-|3|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|45min|
+|3|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|60min|
 |4|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
 |5|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
-|6|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|45min|
-|7|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|45min|
+|6|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|60min|
+|7|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|60min|
 |8|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
 |9|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
-|10|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|45min|30min|
+|10|15.12.2022|Frey,Dakaj,Meier,Broder,Amraya|45min|wurde nicht erstellt 0 min|
 
 ## 5 Kontrollieren
 
@@ -120,9 +120,20 @@ Wir haben uns am 22.12.2022 dazu entschieden das Meier,Frey,Dakaj und Amraya sic
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
+|1|15.12.2022|Die Willkomenspage wird eingeblendet.|Frey|
+|2a|15.12.2022|Themen werden eingeblendet.|Frey|
+|2b|15.12.2022|Beispiel wird nicht angezeigt.|Frey|
+|2c|15.12.2022|Es wird nicht gefragt ob man sich sicher ist.|Frey|
+|3|15.12.2022|Schwierigkeitsgrad kann ausgewählt werden.|Frey|
+|3b|15.12.2022|Beispiel wird nicht angezeigt.|Frey|
+|3c|15.12.2022|Es wird nicht gefragt ob man sich sicher ist.|Frey|
+|4|15.12.2022|Wurde nicht erledigt.|Frey|
+|5|15.12.2022|Wurde nicht erledigt.|Frey|
+|6|15.12,2022|Wenn dass Resultat richtig ist wird es grün angestrichen und wenn es Falsch ist rot.|Frey|
+|7|Wenn man alle Fragen richtig beantwortet wird eine extra Seite eingeblendet, auf der Herzlichen Glückwunsch steht.|Frey|
+|8|15.12.2022|Wurde nicht erledigt.|Frey|
+|9|15.12.2022|Wurde nicht erledigt.|Frey|
+|10|15.12.2022|Es wird keine Frage eingeblendet.|Broder|
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
