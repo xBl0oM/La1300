@@ -102,22 +102,23 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
+Wir haben uns am 8.12.2022 dazu entschieden mit dem programmieren anzufangen.
+Wir haben uns am 15.12.2022 dazu entschieden die Planungs Nummern 4,5,8 und 9 nicht auszuführen, weil wir keine Zeit mehr haben.
+Wir haben uns am 22.12.2022 dazu entschieden das Noah, Jan, 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 |1|8.12.2022|Broder,Meier|45min|60min|
-|2|8.12.2022|Frei,Dakaj,Meier,Broder|120min|180min|
-|3|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|
-|4|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
-|5|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
-|6|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|
-|7|15.12.2022|Frei,Dakaj,Meier,Broder|90min|45min|
-|8|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
-|9|15.12.2022|Frei,Dakaj,Meier,Broder|90min|wurde nicht erstellt 0 min|
-|10|15.12.2022|Frei,Dakaj,Meier,Broder|45min|30min|
+|2|8.12.2022|Frei,Dakaj,Meier,Broder,Amraya|120min|180min|
+|3|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|45min|
+|4|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya,Amraya,Amraya,Amraya,Amraya,Amraya|90min|wurde nicht erstellt 0 min|
+|5|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya,Amraya,Amraya,Amraya,Amraya|90min|wurde nicht erstellt 0 min|
+|6|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya,Amraya,Amraya,Amraya|90min|45min|
+|7|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya,Amraya,Amraya|90min|45min|
+|8|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya,Amraya|90min|wurde nicht erstellt 0 min|
+|9|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|90min|wurde nicht erstellt 0 min|
+|10|15.12.2022|Frei,Dakaj,Meier,Broder,Amraya|45min|30min|
 
 ## 5 Kontrollieren
 
