@@ -84,15 +84,15 @@ Wir Programmieren ein Mathe Quiz, bei dem man eine bestimmte anzahl an Aufgaben 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |1|22.12.2022|Meier, Broder| Die Willkommenspage wird auf Forms programmiert|45 min|
-|2 |22.12.2022|alle| Mehrere Themen werden programmiert die man dann auswählen kann und dass dan ein Beispiel angezeigt wird und gefragt wird ob man sich sicher ist.|120min |
-|3|22.12.2022| alle | Programmieren das es verschiedene Schwierigkeitsgrade gibt,man zwischen den auswählen kann und dann wieder ein Beispiel kommt und gefragt wird ob man sich sicher ist diesen Schwierigkeitsgrad zu wählen. |45min|
-|4|22.12.2022|alle|Ein Timer wird programmiert, den man selber einstellen kann bevor man die Aufgabe beginnt,damit man bischen Druck hat.|90min|
-|5|22.12.2022|alle|Der Timer auf den Screen, auf dem die Aufgaben sind, sichtbar machen.|45min|
-|6|22.12.2022|alle|richtig oder falsch programmieren wenn man eine Aufgabe beantwortet hat.|90min|
-|7|22.12.2022|alle|Eine Gratulation programmieren die angezeigt wird wenn man alle Fragen richtig beantwortet hat.|90min|
-|8|22.12.2022|alle|Programmieren das man Punkte pro richtige oder bei falschen Antworten minus bekommt.|90min|
-|9|22.12.2022|alle|Programmieren eines Leader Bords das, sobald die Aufgaben fertig sind, angezeigt wird.|90min|
-|10|22.12.2022|alle|Programmieren, ob man weiterspielen kann oder beenden will.|45min|
+|2 |22.12.2022|Frei,Dakaj,Meier,Broder,Amraya| Mehrere Themen werden programmiert die man dann auswählen kann und dass dan ein Beispiel angezeigt wird und gefragt wird ob man sich sicher ist.|120min |
+|3|22.12.2022| Frei,Dakaj,Meier,Broder,Amraya | Programmieren das es verschiedene Schwierigkeitsgrade gibt,man zwischen den auswählen kann und dann wieder ein Beispiel kommt und gefragt wird ob man sich sicher ist diesen Schwierigkeitsgrad zu wählen. |45min|
+|4|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Ein Timer wird programmiert, den man selber einstellen kann bevor man die Aufgabe beginnt,damit man bischen Druck hat.|90min|
+|5|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Der Timer auf den Screen, auf dem die Aufgaben sind, sichtbar machen.|45min|
+|6|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|richtig oder falsch programmieren wenn man eine Aufgabe beantwortet hat.|90min|
+|7|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Eine Gratulation programmieren die angezeigt wird wenn man alle Fragen richtig beantwortet hat.|90min|
+|8|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Programmieren das man Punkte pro richtige oder bei falschen Antworten minus bekommt.|90min|
+|9|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Programmieren eines Leader Bords das, sobald die Aufgaben fertig sind, angezeigt wird.|90min|
+|10|22.12.2022|Frei,Dakaj,Meier,Broder,Amraya|Programmieren, ob man weiterspielen kann oder beenden will.|45min|
 
 Total: 
 
