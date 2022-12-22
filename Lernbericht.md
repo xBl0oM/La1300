@@ -1,6 +1,6 @@
 # Lern-Bericht
 
-Cornetto // Jan Frey, John Broder, Leon Dakaj, Noah Meyer
+Cornetto // Jan Frey, John Broder, Leon Dakaj, Noah Meier, Mohammand Amaraya
 
 
 
